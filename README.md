@@ -95,6 +95,7 @@ Contribuições são bem vindas!
 
 * [Descomplicando o Kubernetes - Jeferson Fernando (Badtux)](https://livro.descomplicandokubernetes.com.br/pt/)
 * [Kubernetes Básico - Brendan Burns](https://novatec.com.br/livros/kubernetes-basico/)
+* [Conceitos - Kubernetes Docs](https://kubernetes.io/pt-br/docs/concepts/_print/)
 
 ### Cheat sheet
 
